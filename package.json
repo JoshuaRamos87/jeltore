@@ -1,0 +1,19 @@
+{
+  "name": "jeltore",
+  "version": "1.0.0",
+  "description": "sevelte website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaRamos87/jeltore.git"
+  },
+  "author": "Joshua Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaRamos87/jeltore/issues"
+  },
+  "homepage": "https://github.com/JoshuaRamos87/jeltore#readme"
+}
